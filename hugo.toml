@@ -1,0 +1,6 @@
+baseURL = 'https://amberhollister.com/'
+languageCode = 'en-us'
+title = 'Amber Hollister'
+
+[params]
+  description = 'Amber Hollister'
